@@ -1,0 +1,14 @@
+ASHLIGHT WORLD TABLE 501 IMAGE MIRROR
+========================================
+Recipes: 501
+Photo references: 406
+Downloaded: 406
+Failures: 0
+Duplicates by SHA-256: 4
+Total re-encoded image size: 64.35 MiB
+Dataset SHA-256: 41fdc0572b7272ca557d2df22a0fac1cc1f18146e97ebd2c8258c395daf87d8a
+
+NOTE:
+Images were re-encoded to remove embedded EXIF/IPTC-style metadata.
+Author/licence/source URL are preserved in manifest.json.
+This does not itself replace the live World Table image URLs.
